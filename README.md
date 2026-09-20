@@ -208,15 +208,15 @@ Essa abordagem, entretanto, permaneceu apenas como planejamento e não foi execu
 
 A primeira parte da atividade foi concluída e validada:
 
-PostgreSQL configurado no ambiente;
-Banco atividade_infra criado;
-Tabela usuario criada;
-Registros inseridos;
-Dump realizado com pg_dump;
-Arquivo de backup gerado;
-Banco original removido;
-Banco vazio recriado;
-Restore realizado com psql;
-Dados restaurados e verificados.
+- PostgreSQL configurado no ambiente;
+- Banco atividade_infra criado;
+- Tabela usuario criada;
+- Registros inseridos;
+- Dump realizado com pg_dump;
+- Arquivo de backup gerado;
+- Banco original removido;
+- Banco vazio recriado;
+- Restore realizado com psql;
+- Dados restaurados e verificados.
 
 A segunda parte não foi executada devido aos problemas de instalação do JBoss e Tomcat no ambiente disponível.
