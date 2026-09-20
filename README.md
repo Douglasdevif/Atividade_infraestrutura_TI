@@ -1,5 +1,7 @@
 # Atividade de Infraestrutura 
 
+## Link da apresentação: https://youtu.be/LPicgfuwB9I?si=d3hrLoyrvvhrgyBv
+
 ## Sobre o projeto
 
 Atividade prática de Infraestrutura de TI com o objetivo de trabalhar com operações de backup e restauração de um banco de dados PostgreSQL, além da análise de instâncias de servidores JBoss e Tomcat em um ambiente de teste.
